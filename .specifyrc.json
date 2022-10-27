@@ -1,0 +1,19 @@
+{
+  "repository": "@specifyapp/seed",
+  "rules": [
+    {
+      "name": "Design Tokens / Base",
+      "path": "./style/style.css",
+      "filter": {
+        "types": ["color"]
+      }, 
+      "parsers": [
+        {
+          "name": "to-css-custom-properties"
+        }
+      ]
+    }
+      ]
+    }
+  ]
+}
