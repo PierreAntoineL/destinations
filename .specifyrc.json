@@ -1,5 +1,5 @@
 {
-  "repository": "@specifyapp/seed",
+  "repository": "@specifyapp/seeds",
   "rules": [
     {
       "name": "Design Tokens / Base",
