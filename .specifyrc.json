@@ -8,7 +8,7 @@
       "name": "SDTF",
       "parsers": [
         {
-          "name": "to-sdtf",
+          "name": "to-css-custom-properties",
           "output": {
             "type": "file",
             "filePath": "output/tokens.json"
